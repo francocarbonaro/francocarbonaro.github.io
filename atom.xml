@@ -4,7 +4,7 @@
   <title><![CDATA[Franco Carbonaro]]></title>
   <link href="http://francocarbonaro.github.io/atom.xml" rel="self"/>
   <link href="http://francocarbonaro.github.io/"/>
-  <updated>2015-02-26T00:31:35-03:00</updated>
+  <updated>2015-02-26T00:33:45-03:00</updated>
   <id>http://francocarbonaro.github.io/</id>
   <author>
     <name><![CDATA[Franco Carbonaro]]></name>
@@ -12,15 +12,6 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[My experience on home-office]]></title>
-    <link href="http://francocarbonaro.github.io/blog/2015/02/24/my-experience-on-home-office/"/>
-    <updated>2015-02-24T16:39:52-03:00</updated>
-    <id>http://francocarbonaro.github.io/blog/2015/02/24/my-experience-on-home-office</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
   
   <entry>
     <title type="html"><![CDATA[Tip: choosing the right provisioning profile for an enterprise application on Xcode 5 and 6]]></title>
